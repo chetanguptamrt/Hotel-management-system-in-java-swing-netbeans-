@@ -6,3 +6,5 @@ JDK 11
 Netbeans 12.0
 
 MySQL connector 8.0.17
+
+Please wait... I will upload database structure as soon as possible
