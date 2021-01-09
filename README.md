@@ -7,4 +7,13 @@ Netbeans 12.0
 
 MySQL connector 8.0.17
 
-Please wait... I will upload database structure as soon as possible
+
+Please create database then run the project
+
+Database name = hotel_management_room
+
+user = root
+
+password = Champ123@
+
+Now, open database folder and create table like that
