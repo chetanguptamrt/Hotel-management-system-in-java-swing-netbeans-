@@ -18,7 +18,7 @@ user = root
 
 password = Champ123@
 
-Now, open database folder and create table like that
+Dump database.sql into MySQL
 
 ## Step 2 -
 
